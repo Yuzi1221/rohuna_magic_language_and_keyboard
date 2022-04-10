@@ -20,6 +20,6 @@ Because it will ask for UAC here is the virus total scan
 ![image](https://user-images.githubusercontent.com/57733446/162627935-1cf58783-bd79-435a-85bf-d883771fb087.png)
 
 # Uninstall
-* Remoove the keyboard from the language you put it in
+* Remove the keyboard from the language you put it in
 * go to apps and programs and remove Yedeku Program
 * Done
