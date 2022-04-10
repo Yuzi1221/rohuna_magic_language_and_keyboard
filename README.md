@@ -4,7 +4,7 @@
 
 # Installation
 * Download the repository
-* Run setup.exe and Install
+* Run setup.exe, when the blue protection popup appears click "More Info" and "Run Anyways" and Install give it a minute to load in the background
 * Open your keyboard settings and click on your English keyboard Options
 * Find and add the Yedekua keyboard to your Keyboard
 * This keyboard can be added to any Language
