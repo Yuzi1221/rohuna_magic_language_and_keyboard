@@ -10,5 +10,6 @@
 * This keyboard can be added to any Language
 * If you cannot find it restart your PC and Find the Keyboard and do the same steps again except you dont need to install it again
 
-# Website with Wordlist
-[Yedekua](https://sites.google.com/view/yedekua/home)
+# Links
+[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/home)
+[Discord Server](https://discord.gg/24uCtxKCNH)
