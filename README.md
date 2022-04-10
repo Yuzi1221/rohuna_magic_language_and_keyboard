@@ -1,5 +1,5 @@
 # Yedekua Magic Language And Keyboard for Windows
-* Worlds Magic Language and Keyboard
+* Worlds First Magic Language and Keyboard
 * Easy to learn and pick up by any of the many other language speakers
 
 # Installation
