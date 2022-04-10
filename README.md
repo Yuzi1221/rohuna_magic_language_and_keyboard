@@ -3,6 +3,7 @@
 * Easy to learn and pick up by any of the many other language speakers
 
 # Installation
+* Download the repository
 * Run setup.exe and Install
 * Open your keyboard settings and click on your English keyboard Options
 * Find and add the Yedekua keyboard to your Keyboard
