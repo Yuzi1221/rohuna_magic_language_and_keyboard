@@ -23,3 +23,5 @@ Because it will ask for UAC here is the virus total scan
 * Remove the keyboard from the language you put it in
 * go to apps and programs and remove Yedeku Program
 * Done
+
+* If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
