@@ -11,5 +11,5 @@
 * If you cannot find it restart your PC and Find the Keyboard and do the same steps again except you dont need to install it again
 
 # Links
-[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/home)
-[Discord Server](https://discord.gg/24uCtxKCNH)
+* [Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/home)
+* [Discord Server](https://discord.gg/24uCtxKCNH)
