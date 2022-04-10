@@ -10,4 +10,4 @@
 * If you cannot find it restart your PC and Find the Keyboard in the same steps again
 
 # Website with Wordlist
-([Yedekua](https://sites.google.com/view/yedekua/home))
+[Yedekua](https://sites.google.com/view/yedekua/home)
