@@ -7,7 +7,7 @@
 * Open your keyboard settings and click on your English keyboard Options
 * Find and add the Yedekua keyboard to your Keyboard
 * This keyboard can be added to any Language
-* If you cannot find it restart your PC and Find the Keyboard in the same steps again
+* If you cannot find it restart your PC and Find the Keyboard and do the same steps again except you dont need to install it again
 
 # Website with Wordlist
 [Yedekua](https://sites.google.com/view/yedekua/home)
