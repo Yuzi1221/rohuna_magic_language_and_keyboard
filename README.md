@@ -6,10 +6,9 @@
 # Installation
 * Download the repository
 * Run setup.exe, when the blue protection popup appears click "More Info" and "Run Anyways" and Install give it a minute to load in the background
-* Open your language settings and click on your English keyboard Options or whatever language you use
-* Find and add the Yedekua keyboard to your Keyboard
-* This keyboard can be added to any Language
-* If you cannot find it restart your PC and Find the Keyboard and do the same steps again except you dont need to install it again
+* You will have to sign out and sign back in to see the keyboard
+* If you can't find it then go into your time and language settings and go to language, click on your language and go to options and add it there
+* Done!
 
 # Links
 * [Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)
