@@ -2,6 +2,7 @@
 # Yedekua Magic Language And Keyboard for Windows
 * Worlds First Magic Language and Windows Unicode Keyboard
 * Easy to learn and pick up by any of the many other language speakers
+* Example: 
 
 # Installation
 * Download the repository
