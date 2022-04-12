@@ -28,7 +28,7 @@ Because it will ask for UAC here is the virus total scan
 * Note: If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
 
 # Future Updates
-* If the Discord Server gets popular I will add coding slang
+* If the Discord Server gets popular I will add coding slang and other slang
 * If the language gets real popular I will make a coding language in Yedekua
 
 # Credits
