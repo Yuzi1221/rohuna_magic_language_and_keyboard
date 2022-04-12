@@ -36,3 +36,6 @@ Because it will ask for UAC here is the virus total scan
 * [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=102134) For their Keyboard Layout Editor
 * [Vulgarlang.com](https://www.vulgarlang.com/) For the Word And Language Generator
 * [Emojistock.com](https://emojistock.com/) For the Character Theme
+
+# Extra Resources
+[Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
