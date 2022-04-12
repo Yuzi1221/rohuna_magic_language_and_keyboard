@@ -30,6 +30,7 @@ Because it will ask for UAC here is the virus total scan
 # Future Updates
 * If the Discord Server gets popular I will add coding slang and other slang
 * If the language gets real popular I will make a coding language in Yedekua
+* The Coding language will be aimed to be a language compatable with using node npm packages and focused on bringing optimized javascript for 2D and 3D games and also try to bring 2D and 3D games to Discord! Join the Yedekua discord if you would like to help develop this coding language funding will be open to our code freelancers for developing Yedekua.js
 
 # Credits
 
