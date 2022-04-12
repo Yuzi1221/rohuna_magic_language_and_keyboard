@@ -38,4 +38,4 @@ Because it will ask for UAC here is the virus total scan
 * [Emojistock.com](https://emojistock.com/) For the Character Theme
 
 # Extra Resources
-[Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
+* [Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
