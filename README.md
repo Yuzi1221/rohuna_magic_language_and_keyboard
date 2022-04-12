@@ -3,6 +3,7 @@
 * Worlds First Magic Language and Windows Unicode Keyboard
 * Easy to learn and pick up by any of the many other language speakers
 * Example: ᎧᏇ ᎥᏁᏰᏬፈᏋᏇ ㄱㄱㅇ ᎥᎶᎥᎶ ᏖᏋᏗ ᎥᏕᏖᎥᏕ (He made blue potion in the shop)
+* Example Numbers: ㅛㄱㄱ|ㅛㅇㅇ|ㅛᎧᎧ|ㅛㅇㅇ|ㅛㅇㅇ|ㅘㄱㄱ|ㅕㅇㅇ (Ten Thoundsand Four Hundred and Fifty)
 
 # Installation
 * Download the repository
