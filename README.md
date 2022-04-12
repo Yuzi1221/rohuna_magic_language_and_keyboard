@@ -25,5 +25,14 @@ Because it will ask for UAC here is the virus total scan
 * Remove the keyboard from the language you put it in
 * go to apps and programs and remove Yedekua Program
 * Done
+* Note: If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
 
-* If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
+# Future Updates
+* If the Discord Server gets popular I will add coding slang
+* If the language gets real popular I will make a coding language in Yedekua
+
+# Credits
+
+* [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=102134) For their Keyboard Layout Editor
+* [Vulgarlang.com](https://www.vulgarlang.com/) For the Word And Language Generator
+* [Emojistock.com](https://emojistock.com/) For the Character Theme
