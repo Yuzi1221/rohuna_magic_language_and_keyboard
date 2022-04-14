@@ -3,8 +3,6 @@
 # Magic Language and Keyboard for Windows (Cherokee Script)
 * Magic Language and Windows Unicode Keyboard
 * Easy to learn
-* ~~Example: ᎧᏇ ᎥᏁᏰᏬፈᏋᏇ ㄱㄱㅇ ᎥᎶᎥᎶ ᏖᏋᏗ ᎥᏕᏖᎥᏕ (He made blue potion in the hut)~~
-* ~~Example Numbers: ㅛㄱㄱ|ㅛㅇㅇ|ㅘㄱㄱ|ㅕㅇㅇ|ㅛㅇㅇ (Ten Thoundsand Four Hundred and Fifty) (Hakura)~~
 
 # Installation
 * Download the repository
