@@ -4,7 +4,7 @@
 * Magic Language and Windows Unicode Keyboard
 * Easy to learn and pick up by any of the many other language speakers
 * ~~Example: ᎧᏇ ᎥᏁᏰᏬፈᏋᏇ ㄱㄱㅇ ᎥᎶᎥᎶ ᏖᏋᏗ ᎥᏕᏖᎥᏕ (He made blue potion in the hut)~~
-* ~~Example Numbers: ㅛㄱㄱ|ㅛㅇㅇ|ㅘㄱㄱ|ㅕㅇㅇ|ㅛㅇㅇ (Ten Thoundsand Four Hundred and Fifty) (Hakura)
+* ~~Example Numbers: ㅛㄱㄱ|ㅛㅇㅇ|ㅘㄱㄱ|ㅕㅇㅇ|ㅛㅇㅇ (Ten Thoundsand Four Hundred and Fifty) (Hakura)~~
 
 # Installation
 * Download the repository
@@ -14,7 +14,7 @@
 * Done!
 
 # Links
-* ~~[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)
+* ~~[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)~~
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
