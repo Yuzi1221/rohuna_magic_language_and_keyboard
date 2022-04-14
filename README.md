@@ -14,7 +14,7 @@
 * Done!
 
 # Links
-* ~~[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)~~
+* [Yedekua Website & Dictionary](https://sites.google.com/view/magic-language-rohura/rohuna-dictionary)
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
