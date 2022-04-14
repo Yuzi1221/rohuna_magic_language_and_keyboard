@@ -1,18 +1,20 @@
-![image](https://user-images.githubusercontent.com/57733446/162633149-d53c2198-75a5-483f-a133-820b5f7e1ba0.png)
-# Yedekua Magic Language And Keyboard for Windows
-* Worlds First Magic Language and Windows Unicode Keyboard
-* Easy to learn and pick up by any of the many other language speakers
+![image](https://user-images.githubusercontent.com/57733446/163316858-57eb10b6-2516-412f-88f4-bd6955ca5736.png)
+# UPDATE: Language and Keyboard is being Redone!
+# Magic Language and Keyboard for Windows (Cherokee Script)
+* Magic Language and Windows Unicode Keyboard
+* Easy to learn
+* ~~Example: ᎧᏇ ᎥᏁᏰᏬፈᏋᏇ ㄱㄱㅇ ᎥᎶᎥᎶ ᏖᏋᏗ ᎥᏕᏖᎥᏕ (He made blue potion in the hut)~~
+* ~~Example Numbers: ㅛㄱㄱ|ㅛㅇㅇ|ㅘㄱㄱ|ㅕㅇㅇ|ㅛㅇㅇ (Ten Thoundsand Four Hundred and Fifty) (Hakura)~~
 
 # Installation
 * Download the repository
 * Run setup.exe, when the blue protection popup appears click "More Info" and "Run Anyways" and Install give it a minute to load in the background
-* Open your language settings and click on your English keyboard Options or whatever language you use
-* Find and add the Yedekua keyboard to your Keyboard
-* This keyboard can be added to any Language
-* If you cannot find it restart your PC and Find the Keyboard and do the same steps again except you dont need to install it again
+* You will have to sign out and sign back in to see the keyboard
+* If you can't find it then go into your time and language settings and go to language, click on your language and go to options and add it there
+* Done!
 
 # Links
-* [Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)
+* ~~[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)~~
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
@@ -24,5 +26,18 @@ Because it will ask for UAC here is the virus total scan
 * Remove the keyboard from the language you put it in
 * go to apps and programs and remove Yedekua Program
 * Done
+* Note: If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
 
-* If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
+# Future Updates
+* If the Discord Server gets popular I will add coding slang and other slang
+* If the language gets real popular I will make a coding language in Yedekua
+* The Coding language will be aimed to be a language compatable with using node npm packages and focused on bringing optimized javascript for 2D and 3D games and also try to bring 2D and 3D games to Discord! Join the Yedekua discord if you would like to help develop this coding language funding will be open to our code freelancers for developing Yedekua.js
+
+# Credits
+
+* [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=102134) For their Keyboard Layout Editor
+* [Vulgarlang.com](https://www.vulgarlang.com/) For the Word And Language Generator
+* [Emojistock.com](https://emojistock.com/) For the Character Theme
+
+# Extra Resources
+* [Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
