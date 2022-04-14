@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/57733446/163316858-57eb10b6-2516-412f-88f4-bd6955ca5736.png)
-# UPDATE: Language and Keyboard is being Redone!
 # Magic Language and Keyboard for Windows
 * Magic Language and Windows Unicode Keyboard
 * Easy to learn
