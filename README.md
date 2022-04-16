@@ -30,7 +30,7 @@ Because it will ask for UAC here is the virus total scan
 * If the Discord Server gets popular I will add coding slang and other slang
 * If the language gets real popular I will make a coding language in Yedekua
 * The Coding language will be aimed to be a language compatable with using node npm packages and focused on bringing optimized javascript for 2D and 3D games and also try to bring 2D and 3D games to Discord! Join the Yedekua discord if you would like to help develop this coding language funding will be open to our code freelancers for developing Yedekua.js
-* Adding more Keyboard Layouts, Etc. French,Rohuna | Japanese,Rohuna | With the use of CAPS LOCK. Join the Discord Server if you wish to request your Keyboard to have Yourlanguage+Rohuna. Note: Not all languages will be supported because some languages use both CAPS and NON-CAPS intergrated...
+* Adding more Keyboard Layouts, Etc. French,Rohuna | Japanese,Rohuna | With the use of CAPS LOCK. Join the Discord Server if you wish to request your Keyboard to have YourLanguage+Rohuna. Note: Not all languages will be supported because some languages use both CAPS and NON-CAPS intergrated together...
 
 # Credits
 
