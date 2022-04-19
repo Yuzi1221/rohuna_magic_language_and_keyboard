@@ -42,5 +42,15 @@ Because it will ask for UAC here is the virus total scan
 * [Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
 
 # Keyboard Layout
-![image](https://user-images.githubusercontent.com/57733446/163319669-1d0b73ea-e4a4-44d1-95a9-840b27fb8534.png)
+* Normal:
+![image](https://user-images.githubusercontent.com/57733446/163973607-0735afee-a3a1-4199-a330-85bbe4fa8285.png)
+* CAPS LOCK:
+![image](https://user-images.githubusercontent.com/57733446/163973695-967213b6-3174-477b-9895-19a44e43bedb.png)
+* ALT + CTRL:
+![image](https://user-images.githubusercontent.com/57733446/163973785-ecde0cab-b296-497d-a786-33f289643536.png)
+* ALT + CTRL + SHIFT
+![image](https://user-images.githubusercontent.com/57733446/163973855-bf43810d-3438-4362-a7f5-f7fb298b7064.png)
+
+
+
 
