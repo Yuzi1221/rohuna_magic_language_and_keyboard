@@ -1,10 +1,8 @@
 ![image](https://user-images.githubusercontent.com/57733446/163316858-57eb10b6-2516-412f-88f4-bd6955ca5736.png)
-# UPDATE: Language and Keyboard is being Redone!
-# Magic Language and Keyboard for Windows (Cherokee Script)
+# Magic Language and Keyboard for Windows
 * Magic Language and Windows Unicode Keyboard
-* Easy to learn
-* ~~Example: ᎧᏇ ᎥᏁᏰᏬፈᏋᏇ ㄱㄱㅇ ᎥᎶᎥᎶ ᏖᏋᏗ ᎥᏕᏖᎥᏕ (He made blue potion in the hut)~~
-* ~~Example Numbers: ㅛㄱㄱ|ㅛㅇㅇ|ㅘㄱㄱ|ㅕㅇㅇ|ㅛㅇㅇ (Ten Thoundsand Four Hundred and Fifty) (Hakura)~~
+* Allows for both English and Rohuna with the use of CAPS LOCK
+* Easy to learn Rohuna Language
 
 # Installation
 * Download the repository
@@ -14,7 +12,7 @@
 * Done!
 
 # Links
-* ~~[Yedekua Website & Dictionary](https://sites.google.com/view/yedekua/yedekua)~~
+* [Yedekua Website & Dictionary](https://sites.google.com/view/magic-language-rohuna/rohuna-dictionary)
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
@@ -32,6 +30,7 @@ Because it will ask for UAC here is the virus total scan
 * If the Discord Server gets popular I will add coding slang and other slang
 * If the language gets real popular I will make a coding language in Yedekua
 * The Coding language will be aimed to be a language compatable with using node npm packages and focused on bringing optimized javascript for 2D and 3D games and also try to bring 2D and 3D games to Discord! Join the Yedekua discord if you would like to help develop this coding language funding will be open to our code freelancers for developing Yedekua.js
+* Adding more Keyboard Layouts, Etc. French,Rohuna | Japanese,Rohuna | With the use of CAPS LOCK. Join the Discord Server if you wish to request your Keyboard to have YourLanguage+Rohuna. Note: Not all languages will be supported because some languages use both CAPS and NON-CAPS intergrated together...
 
 # Credits
 
@@ -41,3 +40,7 @@ Because it will ask for UAC here is the virus total scan
 
 # Extra Resources
 * [Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
+
+# Keyboard Layout
+![image](https://user-images.githubusercontent.com/57733446/163319669-1d0b73ea-e4a4-44d1-95a9-840b27fb8534.png)
+
