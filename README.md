@@ -25,6 +25,8 @@ Because it will ask for UAC here is the virus total scan
 * go to apps and programs and remove Yedekua Program
 * Done
 * Note: If the keyboard gets updated you will need to uninstall and install the new one, duplicates cannot be made!
+* Problems With Parasite Keyboard: [Parasite Keyboard Fix](https://answers.microsoft.com/en-us/windows/forum/all/cant-remove-a-keyboard-layout-in-windows-10/058acf33-16d9-47f4-a24b-245b8823d90e)
+* Cannot Install Updated Keyboards: Do a search in your C Drive for Rohuna or Rokun and delete all the dll files related in C:\Windows\
 
 # Future Updates
 * If the Discord Server gets popular I will add coding slang and other slang
