@@ -12,7 +12,7 @@
 * Done!
 
 # Links
-* [Rohuna Website & Dictionary](https://sites.google.com/view/magic-languages/rohuna/rohana)
+* [Rohuna Website & Dictionary](https://sites.google.com/view/magic-languages/rohuna)
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
