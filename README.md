@@ -1,3 +1,6 @@
+# Updated Language
+* Please visit the new updated language page here [Rokun Language and Keyboard](https://github.com/Yuzi1221/Rokun-Real_Magic_Language_And_Keyboard)
+
 ![image](https://user-images.githubusercontent.com/57733446/163316858-57eb10b6-2516-412f-88f4-bd6955ca5736.png)
 # Magic Language and Keyboard for Windows
 * Magic Language and Windows Unicode Keyboard
