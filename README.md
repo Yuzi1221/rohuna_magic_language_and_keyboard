@@ -12,7 +12,7 @@
 * Done!
 
 # Links
-* [Yedekua Website & Dictionary](https://sites.google.com/view/magic-language-rohuna/rohuna-dictionary)
+* [Rohuna Website & Dictionary](https://sites.google.com/view/magic-languages/rohuna/rohana)
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
