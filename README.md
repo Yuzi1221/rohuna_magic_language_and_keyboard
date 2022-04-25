@@ -40,9 +40,6 @@ Because it will ask for UAC here is the virus total scan
 * [Vulgarlang.com](https://www.vulgarlang.com/) For the Word And Language Generator
 * [Emojistock.com](https://emojistock.com/) For the Character Theme
 
-# Extra Resources
-* [Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
-
 # Keyboard Layout
 ![image](https://user-images.githubusercontent.com/57733446/163973607-0735afee-a3a1-4199-a330-85bbe4fa8285.png)
 ![image](https://user-images.githubusercontent.com/57733446/163973695-967213b6-3174-477b-9895-19a44e43bedb.png)
